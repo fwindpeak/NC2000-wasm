@@ -36,6 +36,8 @@ em++ \
     lcdstripe/lcdpainter.cpp \
     cpu.cpp \
     console.cpp \
+    iv_uart.cpp \
+    disassembler_new.cpp \
     -I. \
     -O3 \
     -DHANDYPSP \
